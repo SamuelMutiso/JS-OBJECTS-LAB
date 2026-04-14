@@ -9,6 +9,16 @@ let attendee = {
 };
 
 // function to log attendee name
+function logAttendeeName (attendeeObj) {
+  console.log(attendeeObj);
+}
+
+// function to log ticket price
+function logTicketPrice (attendeeObj) {
+  console.log(attendeeObj.ticketPrice);
+}
+
+// function to update ticket type
 
 
 
