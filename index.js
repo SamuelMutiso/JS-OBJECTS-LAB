@@ -1,4 +1,14 @@
 //Write your code here
+// declearing and initializing an attendee objects
+let attendee = {
+  attendeeId: " T001",
+  name: "Alice Smith",
+  event: "JavaScript Confrence",
+  ticketType: "VIP",
+  ticketPrice: 150.00
+};
+
+// function to log attendee name
 
 
 
